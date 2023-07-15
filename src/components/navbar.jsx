@@ -8,7 +8,7 @@
      
 <nav className="bg-white border-gray-200 dark:bg-gray-900">
     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
-        <Link to="" className="flex items-center">
+        <Link to="/Home" className="flex items-center">
             <img src={myLogo} className="h-9 mr-2" alt="Color picker Logo" />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Color Picker</span>
         </Link>
