@@ -24,7 +24,7 @@
                     <Link to="/Contact" className="text-gray-900 dark:text-white hover:underline">Contact</Link>
                 </li>
                 <li>
-                    <Link to="/Signin" className="text-gray-900 dark:text-white hover:underline">Sign in</Link>
+                    <Link to="/Login" className="text-gray-900 dark:text-white hover:underline">Sign in</Link>
                 </li>
             </ul>
         </div>

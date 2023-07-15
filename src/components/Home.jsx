@@ -27,7 +27,7 @@ export default function Home() {
     />
     </div>
     <h3>Here's your color code : {currentColor}</h3>
-   
+  
     </div>
     </div>
   )
