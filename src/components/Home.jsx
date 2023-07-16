@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className=" ">
     <Navbar/>
-    <div className='App rounded-6 p-10 m-1' style={appStyle}>
+    <div className='App rounded-6 p-10 m-2' style={appStyle}>
     <h1>Color Picker</h1>
     <div style={{alignItems:"center",display:"flex",justifyContent:"center",padding:"10px"}}>
     <SketchPicker 

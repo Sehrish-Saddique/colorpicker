@@ -6,8 +6,7 @@ export default function Login() {
   return (
     <div>
     <Navbar/>
-    <h1>Signin page</h1>
-   <div className='mx-20'>
+    <div className='mx-20'>
 <ul className="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
   <li className="nav-item" role="presentation">
     <Link className="nav-link active" id="tab-login" data-mdb-toggle="pill" to ="#pills-login" role="tab"
